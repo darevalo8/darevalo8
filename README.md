@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Daniel - [website] 👋
+
+
+
+## I'm a Son, Uncle, Developer, and Teacher in process!!
+
+!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to build legos and play videogames / guitar
+
+### Connect with me:
+
+
+
+<br />
+<br />
+
+---
 
 <!--
 **darevalo8/darevalo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
