@@ -4,7 +4,6 @@
 
 ## I'm a Son, Uncle, Developer, and Teacher in process!!
 
-!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -18,7 +17,7 @@
 <br />
 
 ---
-
+<img aling="left" alt="darevalo08 Github stats " src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_border=true"/>
 <!--
 **darevalo8/darevalo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
