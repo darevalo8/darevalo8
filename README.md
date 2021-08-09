@@ -17,7 +17,7 @@
 <br />
 
 ---
-<img aling="left" alt="darevalo08 Github stats " src="https://github-readme-stats.vercel.app/api?username=darevalo08&show_icons=true&hide_border=true"/>
+<img aling="left" alt="darevalo08 Github stats " src="https://github-readme-stats.vercel.app/api?username=darevalo8&show_icons=true&hide_border=true"/>
 <!--
 **darevalo8/darevalo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
